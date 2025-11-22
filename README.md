@@ -6,3 +6,8 @@ Talks (2023): Romhack23 , HITB HKT, Bsides AMD 23 - Hacking into iOS's Volte Imp
 
 Talks (2024): Bsides AMD 0x05 - Breaking into Android IPC Mechanisms through Advanced AIDL Fuzzing
 
+Talks (2024) - HITB BKK - AI-Assisted Code Review
+
+Talks (2025): Hack Lu 2025 - Breaking into Android IPC Mechanisms through AIDL Fuzzing
+
+
