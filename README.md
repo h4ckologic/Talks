@@ -10,4 +10,7 @@ Talks (2024) - HITB BKK - AI-Assisted Code Review
 
 Talks (2025): Hack Lu 2025 - Breaking into Android IPC Mechanisms through AIDL Fuzzing
 
+Talk (2025): BHMEA - FalconEYE  Local LLM powered Code Review
+
+Talk (2026): IDSS'26 - Deep Dive into Building Next-Gen Local AI Security Reviewers
 
